@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
-  // [必填], 请填写您的仓库地址
+  // [必填], 请填写您的仓库地址,填写token的时候name为TOKEN
   gitRepoUrl: 'https://github.com/AndroidDreaming/nav',
 
   // Deployment branch name
